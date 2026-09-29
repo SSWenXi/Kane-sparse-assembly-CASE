@@ -1,0 +1,140 @@
+[
+  {
+    "segments": 5,
+    "internal_modes": 0,
+    "mass_max_abs_difference": 2.842170943040401e-14,
+    "force_max_abs_difference": 1.3322676295501878e-15,
+    "symmetry_max_abs_difference": 0.0,
+    "topology_check": true,
+    "passed": true,
+    "packed_samples_s": [
+      3.2250000000000005e-05,
+      3.1959000000000004e-05,
+      3.175e-05,
+      3.1667e-05,
+      3.1625e-05
+    ],
+    "dense_samples_s": [
+      0.000184333,
+      0.000201334,
+      0.000253625,
+      0.00020933300000000002,
+      0.00019087500000000002
+    ]
+  },
+  {
+    "segments": 10,
+    "internal_modes": 0,
+    "mass_max_abs_difference": 1.1368683772161603e-13,
+    "force_max_abs_difference": 8.881784197001252e-16,
+    "symmetry_max_abs_difference": 0.0,
+    "topology_check": true,
+    "passed": true,
+    "packed_samples_s": [
+      0.000116792,
+      0.00011670800000000001,
+      0.000116459,
+      0.00011641700000000001,
+      0.00011995900000000001
+    ],
+    "dense_samples_s": [
+      0.001124666,
+      0.000992333,
+      0.0010441250000000001,
+      0.0009441250000000001,
+      0.0010769590000000002
+    ]
+  },
+  {
+    "segments": 25,
+    "internal_modes": 0,
+    "mass_max_abs_difference": 1.1368683772161603e-13,
+    "force_max_abs_difference": 3.552713678800501e-15,
+    "symmetry_max_abs_difference": 0.0,
+    "topology_check": true,
+    "passed": true,
+    "packed_samples_s": [
+      0.00104775,
+      0.001049791,
+      0.00105575,
+      0.001044625,
+      0.001065666
+    ],
+    "dense_samples_s": [
+      0.015964375,
+      0.015891959,
+      0.01634825,
+      0.016656458000000002,
+      0.016993083000000003
+    ]
+  },
+  {
+    "segments": 50,
+    "internal_modes": 0,
+    "mass_max_abs_difference": 2.2737367544323206e-13,
+    "force_max_abs_difference": 1.4210854715202004e-14,
+    "symmetry_max_abs_difference": 0.0,
+    "topology_check": true,
+    "passed": true,
+    "packed_samples_s": [
+      0.007314583,
+      0.007248209,
+      0.007271250000000001,
+      0.007247625000000001,
+      0.007248583
+    ],
+    "dense_samples_s": [
+      0.14663958300000002,
+      0.12406608300000001,
+      0.125629458,
+      0.128124875,
+      0.12881620800000002
+    ]
+  },
+  {
+    "segments": 5,
+    "internal_modes": 3,
+    "mass_max_abs_difference": 2.842170943040401e-14,
+    "force_max_abs_difference": 4.440892098500626e-16,
+    "symmetry_max_abs_difference": 0.0,
+    "topology_check": true,
+    "passed": true,
+    "packed_samples_s": [
+      5.7834e-05,
+      5.7667e-05,
+      5.7542000000000006e-05,
+      5.7375000000000005e-05,
+      5.7584e-05
+    ],
+    "dense_samples_s": [
+      0.00040058300000000004,
+      0.0003995,
+      0.00040212500000000003,
+      0.000398375,
+      0.00039808300000000003
+    ]
+  },
+  {
+    "segments": 10,
+    "internal_modes": 3,
+    "mass_max_abs_difference": 5.684341886080802e-14,
+    "force_max_abs_difference": 8.881784197001252e-16,
+    "symmetry_max_abs_difference": 0.0,
+    "topology_check": true,
+    "passed": true,
+    "packed_samples_s": [
+      0.000223458,
+      0.00022329200000000002,
+      0.00022554200000000002,
+      0.00022329200000000002,
+      0.00022283400000000001
+    ],
+    "dense_samples_s": [
+      0.002221125,
+      0.0022270410000000004,
+      0.002213042,
+      0.002209167,
+      0.00221525
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this verification case."
+title: "Reviewer verification case for topology-aware generalized matrix assembly"
+type: software
+authors:
+  - family-names: Shao
+    given-names: Wenxi
+version: 1.0.0
+date-released: 2026-08-28
+license: BSD-3-Clause

@@ -1,0 +1,37 @@
+{
+  "python": "3.12.12 | packaged by conda-forge | (main, Jan 27 2026, 00:01:15) [Clang 19.1.7 ]",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "processor": "arm",
+  "numpy": "2.0.2",
+  "numba": "0.60.0",
+  "matplotlib": "3.9.4",
+  "configurations": [
+    [
+      5,
+      0
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      25,
+      0
+    ],
+    [
+      50,
+      0
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      10,
+      3
+    ]
+  ],
+  "warmups": 2,
+  "repeats": 5,
+  "timing_note": "Wall-clock values are machine and BLAS dependent."
+}
